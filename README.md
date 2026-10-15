@@ -1,5 +1,5 @@
 # pythonpro
 Proyecto de Python
-Realizado por Alejandro Rodriguez
+Realizado por Adrix16
 Año 2026
-V3 - Alejandro Rodriguez
+V4 - Adrix16
