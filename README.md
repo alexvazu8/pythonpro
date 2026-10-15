@@ -1,6 +1,6 @@
 # pythonpro
 Proyecto de Python
-Realizado por Matias Nunez
+Realizado por Alejandro Rodriguez
 Año 2026
-V3
-
+V2
+V3 Matias Nunez
