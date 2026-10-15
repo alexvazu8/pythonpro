@@ -1,5 +1,5 @@
 # pythonpro
-Proyecto de Python
-Realizado por Alejandro Rodriguez
+Algoritmica 1
+Realizado por abduzcan18
 Año 2026
-V3 - Irene Landivar
+V4 - Mau Valdivia
