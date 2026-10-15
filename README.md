@@ -2,5 +2,5 @@
 Proyecto de Python
 Realizado por Alejandro Rodriguez
 Año 2026
-V3 - Irene Landivar
-v4 - Baldi
+V4 - Baldi
+Proyecto de Ingenieria de Software
