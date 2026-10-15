@@ -1,7 +1,7 @@
 # pythonpro
 Proyecto de Python
-<<<<<<< HEAD
+< HEAD
 Realizado por Alejandro Rodriguez
-Año 2024
+Año 2026
 V2
-V3 Santiago Villanueva
+V3 Hernan Ayala
