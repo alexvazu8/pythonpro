@@ -1,5 +1,6 @@
 # pythonpro
 Proyecto de Python
+<<<<<<< HEAD
 Realizado por Alejandro Rodriguez
 <<<<<<< HEAD
 Año 2024
