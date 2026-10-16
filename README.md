@@ -1,8 +1,7 @@
 # pythonpro
 Proyecto de Python
-Realizado por Alejandro Rodriguez
-Año 2026
-V3 - Irene Landivar
 
------------------------
-Materia: Proyecto ingenieria de software
+Realizado por Ciro Chavez
+Año 2026
+
+V5
