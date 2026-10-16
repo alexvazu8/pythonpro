@@ -1,7 +1,6 @@
 # pythonpro
 Proyecto de Python
-Realizado por Alejandro Rodriguez
+
+Realizado por Ciro Chavez
 Año 2026
-V2
-V3 Matias Nunez
-V3 Jose Luque
+V5
